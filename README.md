@@ -1,2 +1,2 @@
 # csc204
-A repository for testing Java code
+A repository for testing Java and C++ codes
